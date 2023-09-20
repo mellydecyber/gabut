@@ -1,0 +1,8 @@
+Hello Brother
+
+User Label
+- full name ambil dari contact name
+- bank name itu dropdown
+- creator id user id si user label
+- npwp file
+- skp file
